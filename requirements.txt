@@ -1,4 +1,5 @@
 rembg
+onnxruntime
 Pillow
 streamlit
 numba
